@@ -1,0 +1,40 @@
+body{
+   
+    background: url(../Lesson\ 4/img/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+padding-left: 03;
+
+}
+.moee{ 
+
+font-size: 30px;
+
+}
+
+.moe{ 
+
+font-size: 30px;
+
+}
+.moe2{
+
+    background-color: #8cb369; 
+}
+.super{
+
+    color: black;
+    font-size: 20px;
+    display: inline-block
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.Linkedin{
+    padding: 1%;
+    border: 2px solid #f8de34;
+    background-color: #b9c4b0;
+    border-radius: 10%; 
+    text-align: center;
+    margin-non
+
+  
+}
