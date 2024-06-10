@@ -1,40 +1,44 @@
-body{
-   
+body {
+
     background: url(../Lesson\ 4/img/11.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-padding-left: 03;
-
-}
-.moee{ 
-
-font-size: 30px;
+    padding-left: 03;
 
 }
 
-.moe{ 
+.moee {
 
-font-size: 30px;
+    font-size: 30px;
 
 }
-.moe2{
 
-    background-color: #8cb369; 
+.moe {
+
+    font-size: 30px;
+
 }
-.super{
+
+.moe2 {
+
+    background-color: #8cb369;
+}
+
+.super {
 
     color: black;
     font-size: 20px;
     display: inline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.Linkedin{
+
+.Linkedin {
     padding: 1%;
     border: 2px solid #f8de34;
     background-color: #b9c4b0;
-    border-radius: 10%; 
+    border-radius: 10%;
     text-align: center;
 
 
-  
+
 }

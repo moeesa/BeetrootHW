@@ -1,0 +1,101 @@
+body {
+
+    background: url(../Lesson\ 4/img/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 03;
+
+}
+
+
+.super {
+
+    color: black;
+    font-size: 20px;
+    display: inline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.Linkedin {
+    padding: 1%;
+    border: 2px solid #f8de34;
+    background-color: #b9c4b0;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.img {
+    border: 3px solid #000;
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+}
+.name {
+    border: 1px solid #000;
+    margin: 100;
+    width: 400px;
+    height: 70px;
+    position: relative;
+    left: 500px;
+}
+
+.Summary {
+    border: 3px solid #000;
+    margin: 115px 500px;
+    width: 700px;
+    height: 200px;
+    background-color: rgb(223, 255, 244);
+    color: #000;
+}
+
+.Contact {
+    border: 0px solid #02f617;
+    margin: 10px;
+    width: 300px;
+    height: 400px;
+    position: relative;
+    bottom: 300px;
+   
+
+}
+
+.Career {
+    border: 3px solid #000;
+    margin: 50px 700px;
+    width: 300px;
+    height: 200px;
+    color: #000;
+    position:relative;
+    bottom: 300px;
+}
+
+.Skills {
+    border: 0px solid #000000;
+    margin: 10px;
+    width: 350px;
+    height: 200px;
+    position: relative;
+    bottom: 500px;
+}
+
+.Languages {
+    border: 0px solid #02f617;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 500px;
+}
+
+.Info {
+    border: 10px solid #000;
+    margin: 0px;
+    width: 400px;
+    height: 2500px;
+    background-color: #002e5d;
+    position: relative;
+   bottom: 100px ;
+   color:white
+   
+
+}
